@@ -1,0 +1,98 @@
+Data: iris.data
+
+Data description: info.names
+
+Both can be found in the attachment.
+
+Some general words about dataset can be found here: https://en.wikipedia.org/wiki/Iris_flower_data_set
+ 
+
+Requirements for the solution:
+
+    You can use any programming language of your choice for this task.
+    Created table should be consistent with the template below (reasonable deviations from layout are acceptable). Numbers in the table should be replaced with actual numbers based on data.
+    Alignment of numbers is left up to you but table should be readable and easy to understand.
+    Precision should be:
+
+    N – integer
+    Min, max – same precision as in dataset (1 decimal point)
+    Median, mean, standard deviation – +1 digit to data precision
+
+    Percentages should be rounded up to 1 digit after decimal point.
+
+ 
+
+It is expected that you’ll send back:
+
+    program named “solution” (with extension depending on prog language)
+    table named “iris-flowers.txt” containing analysis described above.
+
+ 
+
+                                                          Iris Flower Summary                                                  
+
+                                                              All Flowers                                                       
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+                                                Iris Setosa        Iris Versicolor       Iris Virginica             Total        
+
+                                                  N = 1113              N = 1111              N = 1107              N = 3331       
+
+--------------------------------------------------------------------------------------------------------------------------------   
+
+SEPAL LENGTH [CM]                                                                                                                       
+
+  N                                               1113                  1111                  1107                  3331           
+
+  MEAN                                              72                    71                    72                    72           
+
+  MIN                                               94                    95                    94                    95              
+
+  MEDIAN                                            72                    71                    71                    71           
+
+  MAX                                               94                    95                    94                    95              
+
+  STANDARD DEVIATION                                 7.2                   7.4                   6.8                   7.1         
+
+                                                                                                                                     
+
+SEPAL LENGTH (%)                                                                                                             
+
+  < 5                                             192 ( 17.3)           203 ( 18.3)           201 ( 18.2)           596 ( 17.9)
+
+  >=5 AND <6                                     xxx ( xx.x)           xxx ( xx.x)           xxx ( xx.x)           xxx ( xx.x)   
+
+  >=6 AND <7                                     xxx ( xx.x)           xxx ( xx.x)           xxx ( xx.x)           xxx ( xx.x)   
+
+  >= 7                                            xxx ( xx.x)           xxx ( xx.x)           xxx ( xx.x)           xxx ( xx.x) 
+
+ 
+
+SEPAL WIDTH [CM]                                                                                                                        
+
+  N                                               1113                  1111                  1107                  3331           
+
+  MEAN                                              72                    71                    72                    72           
+
+  MIN                                               94                    95                    94                    95              
+
+  MEDIAN                                            72                    71                    71                    71           
+
+  MAX                                               94                    95                    94                    95              
+
+  STANDARD DEVIATION                                 7.2                   7.4                   6.8                   7.1         
+
+                                                                                                                                     
+
+SEPAL WIDTH (%)                                                                                                             
+
+  < 3                                             192 ( 17.3)           203 ( 18.3)           201 ( 18.2)           596 ( 17.9)
+
+  >=3 AND <3.5                                     xxx ( xx.x)           xxx ( xx.x)           xxx ( xx.x)           xxx ( xx.x)   
+
+  >=3.5 AND <4                                     xxx ( xx.x)           xxx ( xx.x)           xxx ( xx.x)           xxx ( xx.x)    
+
+ 
+
+-------------------------------------------------------------------------------------------------------------------------------- 
